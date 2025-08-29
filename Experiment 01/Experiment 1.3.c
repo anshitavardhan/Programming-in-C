@@ -1,3 +1,7 @@
+/*Experiment 1: Installation, Environment Setup and starting with 
+C language 
+3.Write a C program to add two numbers, take number from user.*/
+
 #include<stdio.h> 
 int main () 
 { 
